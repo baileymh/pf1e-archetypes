@@ -1,0 +1,337 @@
+  "packs": [
+  {
+    "name": "alchemist",
+    "label": "Alchemist Archetypes",
+    "system": "pf1",
+    "path": "packs/alchemist-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "antipaladin",
+    "label": "Antipaladin Archetypes",
+    "system": "pf1",
+    "path": "packs/antipaladin-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "arcanist",
+    "label": "Arcanist Archetypes",
+    "system": "pf1",
+    "path": "packs/arcanist-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "barbarian",
+    "label": "Barbarian Archetypes",
+    "system": "pf1",
+    "path": "packs/barbarian-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "bard",
+    "label": "Bard Archetypes",
+    "system": "pf1",
+    "path": "packs/bard-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "bloodrager",
+    "label": "Bloodrager Archetypes",
+    "system": "pf1",
+    "path": "packs/bloodrager-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "brawler",
+    "label": "Brawler Archetypes",
+    "system": "pf1",
+    "path": "packs/brawler-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "cavalier",
+    "label": "Cavalier Archetypes",
+    "system": "pf1",
+    "path": "packs/cavalier-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "cleric",
+    "label": "Cleric Archetypes",
+    "system": "pf1",
+    "path": "packs/cleric-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "druid",
+    "label": "Druid Archetypes",
+    "system": "pf1",
+    "path": "packs/druid-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "fighter",
+    "label": "Fighter Archetypes",
+    "system": "pf1",
+    "path": "packs/fighter-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "gunslinger",
+    "label": "Gunslinger Archetypes",
+    "system": "pf1",
+    "path": "packs/gunslinger-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "hunter",
+    "label": "Hunter Archetypes",
+    "system": "pf1",
+    "path": "packs/hunter-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "inquisitor",
+    "label": "Inquisitor Archetypes",
+    "system": "pf1",
+    "path": "packs/inquisitor-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "investigator",
+    "label": "Investigator Archetypes",
+    "system": "pf1",
+    "path": "packs/investigator-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "kineticist",
+    "label": "Kineticist Archetypes",
+    "system": "pf1",
+    "path": "packs/kineticist-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "magus",
+    "label": "Magus Archetypes",
+    "system": "pf1",
+    "path": "packs/magus-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "medium",
+    "label": "Medium Archetypes",
+    "system": "pf1",
+    "path": "packs/medium-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "mesmerist",
+    "label": "Mesmerist Archetypes",
+    "system": "pf1",
+    "path": "packs/mesmerist-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "monk",
+    "label": "Monk Archetypes",
+    "system": "pf1",
+    "path": "packs/monk-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "monk-uc",
+    "label": "Monk (Unchained) Archetypes",
+    "system": "pf1",
+    "path": "packs/monk-unchained.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "ninja",
+    "label": "Ninja Archetypes",
+    "system": "pf1",
+    "path": "packs/ninja-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "occultist",
+    "label": "Occultist Archetypes",
+    "system": "pf1",
+    "path": "packs/occultist-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "oracle",
+    "label": "Oracle Archetypes",
+    "system": "pf1",
+    "path": "packs/oracle-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "paladin",
+    "label": "Paladin Archetypes",
+    "system": "pf1",
+    "path": "packs/paladin-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "psychic",
+    "label": "Psychic Archetypes",
+    "system": "pf1",
+    "path": "packs/psychic-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "ranger",
+    "label": "Ranger Archetypes",
+    "system": "pf1",
+    "path": "packs/ranger-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "rogue",
+    "label": "Rogue Archetypes",
+    "system": "pf1",
+    "path": "packs/rogue-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "samurai",
+    "label": "Samurai Archetypes",
+    "system": "pf1",
+    "path": "packs/samurai-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "shaman",
+    "label": "Shaman Archetypes",
+    "system": "pf1",
+    "path": "packs/shaman-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "shifter",
+    "label": "Shifter Archetypes",
+    "system": "pf1",
+    "path": "packs/shifter-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "skald",
+    "label": "Skald Archetypes",
+    "system": "pf1",
+    "path": "packs/skald-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "slayer",
+    "label": "Slayer Archetypes",
+    "system": "pf1",
+    "path": "packs/slayer-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "sorcerer",
+    "label": "Sorcerer Archetypes",
+    "system": "pf1",
+    "path": "packs/sorcerer-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "spiritualist",
+    "label": "Spiritualist Archetypes",
+    "system": "pf1",
+    "path": "packs/spiritualist-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "summoner",
+    "label": "Summoner Archetypes",
+    "system": "pf1",
+    "path": "packs/summoner-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "summoner-uc",
+    "label": "Summoner (Unchained) Archetypes",
+    "system": "pf1",
+    "path": "packs/summoner-unchained.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "swashbuckler",
+    "label": "Swashbuckler Archetypes",
+    "system": "pf1",
+    "path": "packs/swashbuckler-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "vigilante",
+    "label": "Vigilante Archetypes",
+    "system": "pf1",
+    "path": "packs/vigilante-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "warpriest",
+    "label": "Warpriest Archetypes",
+    "system": "pf1",
+    "path": "packs/warpriest-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "witch",
+    "label": "Witch Archetypes",
+    "system": "pf1",
+    "path": "packs/witch-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  },
+  {
+    "name": "wizard",
+    "label": "Wizard Archetypes",
+    "system": "pf1",
+    "path": "packs/wizard-archetypes.db",
+    "entity": "Item",
+    "module": "archetypes"
+  }]

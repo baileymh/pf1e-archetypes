@@ -1,0 +1,304 @@
+OPEN GAME LICENSE Version 1.0a
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
+1. Definitions:
+(a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content;
+(b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted;
+(c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute;
+(d) "Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity.
+(e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content;
+(f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor
+(g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content.
+(h) "You" or "Your" means the licensee in terms of this agreement.
+
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+
+3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
+
+5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+15. COPYRIGHT NOTICE
+Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
+System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
+Foundry Virtual Tabletop © 2019, Foundry Gaming LLC
+Advanced Class Guide © 2014, Paizo Inc.; Authors: Dennis Baker, Ross Byers, Jesse Benner, Savannah Broadway, Jason Bulmahn, Jim Groves, Tim Hitchcock, Tracy Hurley, Jonathan H. Keith, Will McCardell, Dale C. McCoy, Jr., Tom Phillips, Stephen Radney-MacFarland, Thomas M. Reid, Sean K Reynolds, Tork Shaw, Owen K.C. Stephens, and Russ Taylor.
+Advanced Player’s Guide, © 2010, Paizo Publishing, LLC; Author: Jason Bulmahn.
+Advanced Race Guide © 2012, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Benjamin Bruck, Jason Bulmahn, Adam Daigle, Jim Groves, Tim Hitchcock, Hal MacLean, Jason Nelson, Stephen Radney-MacFarland, Owen K.C. Stephens, Todd Stewart, and Russ Taylor.
+Book of the Damned © 2017, Paizo Inc.; Authors: John Compton, Adam Daigle, Amanda Hamon Kunz, James Jacobs, Isabelle Lee, F. Wesley Schneider, Todd Stewart, and Josh Vogt.
+Core Rulebook. © 2010, Paizo Publishing, LLC; Author: Jason Buhlman, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
+Council of Thieves Player’s Guide. Copyright 2009, Paizo Publishing, LLC; Author: James Jacobs, F. Wesley Schneider, Amber Scott, and Hank Woon.
+Gods and Magic. Copyright 2008, Paizo Publishing, LLC; Author: Sean K Reynolds.
+Guide to Korvosa. Copyright 2008, Paizo Publishing, LLC; Author: Mike McArtor.
+Guide to Pathfinder Society Organized Play v2.2. Copyright 2010, Paizo Publishing, LLC; Author: Joshua J. Frost.
+Horror Adventures © 2016, Paizo Inc.; Authors: John Bennett, Clinton J. Boomer, Logan Bonner, Robert Brookes, Jason Bulmahn, Ross Byers, Jim Groves, Steven Helt, Thurston Hillman, Eric Hindley, Brandon Hodge, Mikko Kallio, Jason Nelson, Tom Phillips, Stephen Radney-MacFarland, Alistair Rigg, Alex Riggs, David N. Ross, F. Wesley Schneider, David Schwartz, Mark Seifter, and Linda Zayas-Palmer.
+Into the Darklands. Copyright 2008, Paizo Publishing, LLC; Authors: James Jacobs and Greg A. Vaughan.
+Iron Lords of Jupiter, Copyright 2003 Paizo Publishing, Author: Lizard
+Jade Regent Player’s Guide © 2011, Paizo Publishing, LL C; Authors: James Jacobs and Patrick Renie.
+Monster Codex © 2014, Paizo Inc.; Authors: Dennis Baker, Jesse Benner, Logan Bonner, Jason Bulmahn, Ross Byers, John Compton, Robert N. Emerson, Jonathan H. Keith, Dale C. McCoy, Jr., Mark Moreland, Tom Phillips, Stephen Radney-MacFarland, Sean K Reynolds, Thomas M. Reid, Patrick Renie, Mark Seifter, Tork Shaw, Neil Spicer, Owen K.C. Stephens, and Russ Taylor.
+Mythic Adventures, © 2013, Paizo Publishing, LLC; Authors: Jason Bulmahn, Stephen Radney-MacFarland, Sean K Reynolds, Dennis Baker, Jesse Benner, Ben Bruck, Jim Groves, Tim Hitchcock, Tracy Hurley, Jonathan Keith, Jason Nelson, Tom Phillips, Ryan Macklin, F. Wesley Schneider, Amber Scott, Tork Shaw, Russ Taylor, and Ray Vallese.
+Occult Adventures © 2015, Paizo Inc.; Authors: John Bennett, Logan Bonner, Robert Brookes, Jason Bulmahn, Ross Byers, John Compton, Adam Daigle, Jim Groves, Thurston Hillman, Eric Hindley, Brandon Hodge, Ben McFarland, Erik Mona, Jason Nelson, Tom Phillips, Stephen Radney-MacFarland, Thomas M. Reid, Alex Riggs, Robert Schwalb, Mark Seifter, Russ Taylor, and Steve Townshend.
+Paizo Blog. Copyright 2010–2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC, or as credited in individual blog entries.
+Pathfinder 10: A History of Ashes. Copyright 2008, Paizo Publishing, LLC; Author: Michael Kortes.
+Pathfinder 11: Skeletons of Scarwall. Copyright 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder 12: Crown of Fangs. Copyright 2008, Paizo Publishing, LLC; Author: Tito Leati.
+Pathfinder 13: Shadow in the Sky. Copyright 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder 14: Children of the Void. Copyright 2008, Paizo Publishing, LLC; Author: Mike McArtor.
+Pathfinder 15: The Armageddon Echo. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn
+Pathfinder 16: Endless Night. Copyright 2008, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+Pathfinder 17: A Memory of Darkness. Copyright 2009, Paizo Publishing, LLC; Author: J.D. Wiker
+Pathfinder 18: Descent into Midnight. Copyright 2009, Paizo Publishing, LLC; Author: Brian Cortijo.
+Pathfinder 19: Howl of the Carrion King. Copyright 2009, Paizo Publishing, LLC; Author: Erik Mona.
+Pathfinder 1: Burnt Offerings. Copyright 2007, Paizo Publishing, LLC; Author: James Jacobs.
+Pathfinder 26: The Sixfold Trial. Copyright 2009, Paizo Publishing, LLC; Author: Richard Pett
+Pathfinder 27: What Lies in Dust. Copyright 2009, Paizo Publishing, LLC; Author: Michael Kortes
+Pathfinder 28: The Infernal Syndrome. Copyright 2009, Paizo Publishing, LLC; Author: Clinton Boomer and James Jacobs
+Pathfinder 29: Mother of Flies. Copyright 2010, Paizo Publishing, LLC; Author: Greg A. Vaughan
+Pathfinder 5: Sins of the Saviors. Copyright 2007, Paizo Publishing, LLC; Author: Stephen S. Greer.
+Pathfinder Adventure Path #100: A Song of Silver © 2015, Paizo Inc.; Authors: James Jacobs, with Adam Daigle, Crystal Frasier, Jim Groves, Tim Hitchcock, Brandon Hodge, Nicolas Logue, Stephanie Lorée, Rob McCreary, Erik Mona, Jason Nelson, Richard Pett, Sean K Reynolds, F. Wesley Schneider, Amber E. Scott, Mike Shel, Neil Spicer, and Greg A. Vaughan.
+Pathfinder Adventure Path #122: Into the Shattered Continent © 2017, Paizo Inc.; Authors: Robert Brookes, with Ayla Arthur, Adam Daigle, Lucas J.W. Johnson, Robin Loutzenhiser, Ron Lundeen, and Mark Moreland.
+Pathfinder Adventure Path #123: The Flooded Cathedral © 2017, Paizo Inc.; Authors: Mikko Kallio, with John Compton, Adam Daigle, Kalervo Oikarinen, and David Schwartz.
+Pathfinder Adventure Path #124: City in the Deep © 2017, Paizo Inc.; Authors: Amber E. Scott, with Alex Greenshields, Mikko Kallio, Mark Moreland, Tim Nightengale, and Kalervo Oikarinen.
+Pathfinder Adventure Path #125: Tower of the Drowned Dead © 2017, Paizo Inc.; Authors: Ron Lundeen, with Nathan King, Isabelle Lee, Erik Mona, Kalervo Oikarinen, and David Schwartz.
+Pathfinder Adventure Path #131: The Reaper’s Right Hand © 2018, Paizo Inc.; Authors: John Compton, with Jason Keeley, Nathan King, Crystal Malarsky, and Greg A. Vaughan.
+Pathfinder Adventure Path #133: Secrets of Roderic’s Cove © 2018, Paizo Inc.; Authors: Adam Daigle, with James Jacobs, Mikko Kallio, Luis Loza, Jacob W. Michaels, and Conor J. Owens.
+Pathfinder Adventure Path #140: Eulogy for Roslar’s Coffer © 2019, Paizo Inc.; Authors: Jason Keeley, with Eleanor Ferron, Sarah E. Hood, Lyz Liddell, Luis Loza, Crystal Malarsky, Jen McTeague, and Mikhail Rekun.
+Pathfinder Adventure Path #22: The End of Eternity. Copyright 2009, Paizo Publishing, LLC; Author: Jason Nelson.
+Pathfinder Adventure Path #23: The Impossible Eye. Copyright 2009, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Adventure Path #24: The Final Wish. © 2009, Paizo Publishing, LLC; Author: Rob McCreary.
+Pathfinder Adventure Path #25: Bastards of Erebus. © 2009, Paizo Publishing, LLC; Author: Sean K Reynolds.
+Pathfinder Adventure Path #26: The Sixfold Trial. © 2009, Paizo Publishing, LLC; Author: Richard Pett.
+Pathfinder Adventure Path #27: What Lies in Dust. © 2009, Paizo Publishing, LLC; Author: Michael Kortes.
+Pathfinder Adventure Path #28: The Infernal Syndrome. © 2009, Paizo Publishing, LLC; Authors: Clinton Boomer and James Jacobs.
+Pathfinder Adventure Path #29: Mother of Flies. © 2009, Paizo Publishing, LLC; Authors: Greg A. Vaughan.
+Pathfinder Adventure Path #30: The Twice-Damned Prince. © 2010, Paizo Publishing, LLC; Author: Brian Cortijo and James Jacobs.
+Pathfinder Adventure Path #31: Stolen Land. © 2010, Paizo Publishing, LLC; Author: Tim Hitchcock
+Pathfinder Adventure Path #32: Rivers Run Red. © 2010, Paizo Publishing, LLC; Author: Rob McCreary
+Pathfinder Adventure Path #33: The Varnhold Vanishing. © 2010, Paizo Publishing, LLC; Author: Greg A. Vaughan
+Pathfinder Adventure Path #34: Blood for Blood. © 2010, Paizo Publishing, LLC; Author: Neil Spicer.
+Pathfinder Adventure Path #35: War of the River Kings. © 2010, Paizo Publishing, LLC; Author: Jason Nelson.
+Pathfinder Adventure Path #36: Sound of a Thousand Screams. © 2010, Paizo Publishing, LLC; Author: Richard Pett.
+Pathfinder Adventure Path #37: Souls for Smuggler’s Shiv. © 2010, Paizo Publishing, LLC; Author: James Jacobs.
+Pathfinder Adventure Path #38: Racing to Ruin. © 2010, Paizo Publishing, LLC; Author: Tim Hitchcock.
+Pathfinder Adventure Path #39: City of Seven Spears. © 2010, Paizo Publishing, LLC; Authors: James Jacobs, Kevin Kulp, Rob McCreary, and Owen K.C. Stephens.
+Pathfinder Adventure Path #40: Vaults of Madness. © 2010, Paizo Publishing, LLC; Author Greg A. Vaughan
+Pathfinder Adventure Path #41: The Thousand Fangs Below. © 2011, Paizo Publishing, LLC; Authors: Graeme Davis and Rob McCreary.
+Pathfinder Adventure Path #42: Sanctum of the Serpent God. © 2011, Paizo Publishing, LLC; Author: Neil Spicer.
+Pathfinder Adventure Path #43: Haunting of Harrowstone. Copyright 2011, Paizo Publishing, LLC, Author: Michael Kortes
+Pathfinder Adventure Path #44: Trail of the Beast. Copyright 2011, Paizo Publishing, LLC, Author: Richard Pett
+Pathfinder Adventure Path #45: Broken Moon. © 2011, Paizo Publishing, LLC; Author: Tim Hitchcock.
+Pathfinder Adventure Path #46: Wake of the Watcher. © 2011, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Adventure Path #47: Ashes at Dawn. © 2011, Paizo Publishing, LLC; Author: Neil Spicer.
+Pathfinder Adventure Path #48: Shadows of Gallowspire. © 2011, Paizo Publishing, LLC; Author: Brandon Hodge.
+Pathfinder Adventure Path #49: The Brinewall Legacy. © 2011, Paizo Publishing, LLC; Author: James Jacobs.
+Pathfinder Adventure Path #50: Night of Frozen Shadows. © 2011, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Adventure Path #51: The Hungry Storm © 2011, Paizo Publishing, LLC; Author: Jason Nelson.
+Pathfinder Adventure Path #52: Forest of Spirits © 2011, Paizo Publishing, LLC; Author: Richard Pett.
+Pathfinder Adventure Path #53: Tide of Honor © 2011, Paizo Publishing, LLC; Author: Tito Leati.
+Pathfinder Adventure Path #55: The Wormwood Mutiny © 2012, Paizo Publishing, LLC; Author: Richard Pett.
+Pathfinder Adventure Path #56: Raiders of the Fever Sea © 2012, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Adventure Path #57: Tempest Rising © 2012, Paizo Publishing, LLC; Author: Matthew Goodall.
+Pathfinder Adventure Path #58: Island of Empty Eyes © 2012, Paizo Publishing, LLC; Author: Neil Spicer.
+Pathfinder Adventure Path #60: From Hell’s Heart © 2012, Paizo Publishing, LLC; Authors: Jason Nelson and Rob McCreary.
+Pathfinder Adventure Path #61: Shards of Sin © 2012, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Adventure Path #62: Curse of the Lady’s Light © 2012, Paizo Publishing, LLC; Author: Mike Shel.
+Pathfinder Adventure Path #63: The Asylum Stone © 2012, Paizo Publishing, LLC; Author: James L. Sutter.
+Pathfinder Adventure Path #71: Rasputin Must Die! © 2013, Paizo Publishing, LLC; Author: Brandon Hodge.
+Pathfinder Adventure Path #72: The Witch Queen's Revenge © 2013, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Adventure Path #73: The Worldwound Incursion © 2013, Paizo Publishing, LLC; Author: Amber E. Scott.
+Pathfinder Adventure Path #75: Demon’s Heresy © 2013, Paizo Publishing, LLC; Author: Jim Groves.
+Pathfinder Adventure Path #77: Herald of the Ivory Labyrinth © 2013, Paizo Publishing, LLC; Author: Wolfgang Baur.
+Pathfinder Adventure Path #78: City of Locusts © 2014, Paizo Publishing, LLC; Author: Richard Pett.
+Pathfinder Adventure Path #81: Shifting Sands © 2014, Paizo Inc.; Authors: Richard Pett, with Benjamin Bruck, Adam Daigle, Thurston Hillman, Michael McCarthy, Patrick Renie, Amber E. Scott, and Russ Taylor.
+Pathfinder Adventure Path #82: Secrets of the Sphinx © 2014, Paizo Inc.; Authors: Amber E. Scott, with Michael Kortes, Amber E. Scott, David Schwartz, Russ Taylor, Greg A. Vaughan, and Larry Wilhelm.
+Pathfinder Adventure Path #84: Pyramid of the Sky Pharaoh © 2014, Paizo Inc.; Authors: Mike Shel, with Tyler Beck, Adam Daigle, F. Wesley Schneider, and Amber E. Scott.
+Pathfinder Adventure Path #87: The Choking Tower © 2014, Paizo Inc.; Authors: Ron Lundeen, with Paris Crenshaw, Mark Garringer, Patrick Renie, and Amber E. Scott.
+Pathfinder Adventure Path #91: Battle of Bloodmarch Hill © 2015, Paizo Inc.; Authors: Patrick Renie, with Tyler Beck, Adam Daigle, Richard Pett, Stephen Radney-MacFarland, and David Schwartz.
+Pathfinder Adventure Path #95: Anvil of Fire © 2015, Paizo Inc.; Authors: Sean K Reynolds, with Benjamin Bruck, Mikko Kallio, David Schwartz, Russ Taylor, Jerome Virnych, and Wendy N. Wagner.
+Pathfinder Adventure Path #99: Dance of the Damned © 2015, Paizo Inc.; Authors: Richard Pett, with Stephanie Lorée, Michael McCarthy, Alistair Rigg, F. Wesley Schneider, and Todd Stewart.
+Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Stephen S. Greer, James Jacobs, Nicolas Logue, Richard Pett, and Greg A. Vaughan.
+Pathfinder Campaign Setting: Artifacts &amp; Legends</b> © 2012, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+Pathfinder Campaign Setting: Belkzen, Hold of the Orc Hordes © 2015, Paizo Inc.; Authors: Tyler Beck, Jason Garrett, Alex Greenshields, and David Schwartz.
+Pathfinder Campaign Setting: Castles of the Inner Sea © 2013, Paizo Publishing, LLC; Authors: Alyssa Faden and Tim Hitchcock.
+Pathfinder Campaign Setting: Cheliax, The Infernal Empire © 2015, Paizo Inc.; Authors: Amanda Hamon Kunz, Ron Lundeen, and Mark Moreland.
+Pathfinder Campaign Setting: Chronicle of the Righteous. © 2013 Paizo Publishing, LLC; Author: Amber Scott.
+Pathfinder Campaign Setting: Darklands Revisited © 2016, Paizo Inc.; Author: Thurston Hillman.
+Pathfinder Campaign Setting: Demons Revisited © 2013, Paizo Publishing, LLC; Author: James Jacobs.
+Pathfinder Campaign Setting: Distant Realms © 2018, Paizo Inc.; Authors: John Compton, Crystal Frasier, Thurston Hillman, Amanda Hamon Kunz, Lyz Liddell, and David Schwartz.
+Pathfinder Campaign Setting: Distant Shores © 2015, Paizo Inc.; Authors: John Compton, Adam Daigle, Crystal Frasier, Amanda Hamon Kunz, Rob McCreary, Mark Moreland, James L. Sutter, and Owen K.C. Stephens.
+Pathfinder Campaign Setting: Dragon Empires Gazetteer © 2011, Paizo Publishing, LLC; Authors: Matthew Goodall, Dave Gross, James Jacobs, Steve Kenson, Michael Kortes, Colin McComb, Rob McCreary, Richard Pett, F. Wesley Schneider, Mike Shel, and Todd Stewart.
+Pathfinder Campaign Setting: Dungeons of Golarion. © 2011, Paizo Publishing, LLC. Authors: Jason Bulmahn, Matthew Goodall, Brandon Hodge, Anthony Pryor, and Mike Shel.
+Pathfinder Campaign Setting: Heaven Unleashed © 2016, Paizo Inc.; Authors: Judy Bauer, Crystal Frasier, Jim Groves, Amanda Hamon Kunz, Jenny Jarzabski, Jason Keeley, Luis Loza, Ron Lundeen, and Jessica Price.
+Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC; Author: Todd Stewart.
+Pathfinder Campaign Setting: Inner Sea Combat © 2014, Paizo Inc.; Authors: Dennis Baker, Jesse Benner, John Compton, and Thurston Hillman.
+Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC; Authors: Sean K Reynolds, with Amanda Hamon, James Jacobs, John Ling, Mark Moreland, David N. Ross, F. Wesley Schneider, Amber E. Scott, Tork Shaw, James L. Sutter, Jerome Virnich.
+Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC; Authors: Jesse Benner, Jason Nelson, Sean K Reynolds, Owen K.C. Stephens, Russ Taylor.
+Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.; Authors: John Compton, Paris Crenshaw, Mike Myler, Tork Shaw, and Larry Wilhelm.
+Pathfinder Campaign Setting: Inner Sea NPC Codex © 2013, Paizo Publishing, LLC; Authors: John Compton, Paris Crenshaw, Adam Daigle, Josh Foster, Rob McCreary, Mark Moreland, and Russ Taylor.
+Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.; Authors: Ross Byers, John Compton, Adam Daigle, Crystal Frasier, Matthew Goodall, Alex Greenshields, James Jacobs, Amanda Hamon Kunz, Ron Lundeen, Rob McCreary,  Jessica Price, David N. Ross, Owen K.C. Stephens, James L. Sutter, Russ Taylor, and Jerome Virnich.
+Pathfinder Campaign Setting: Isles of the Shackles © 2012, Paizo Publishing, LLC; Author: Mike Shel.
+Pathfinder Campaign Setting: Lands of the Linnorm Kings © 2011, Paizo Publishing, LLC; Authors: Matthew Goodall, Jonathan Keith, Colin McComb, and Rob McCreary.
+Pathfinder Campaign Setting: Lords of Chaos: Book of the Damned, Vol. 2. Copyright 2010, Paizo Publishing LLC; Author: James Jacobs
+Pathfinder Campaign Setting: Lost Cities of Golarion. © 2011, Paizo Publishing, LLC. Authors: Tim Hitchcock, Brandon Hodge, Michael Kortes, Jason Nelson, and Russ Taylor
+Pathfinder Campaign Setting: Lost Kingdoms © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Adam Daigle, Jeff Erwin, and F. Wesley Schneider.
+Pathfinder Campaign Setting: Lost Treasures © 2014, Paizo Inc.; Authors: Judy Bauer, Savannah Broadway, John Compton, Ron Lundeen, Levi Miles, Justin Riddler, F. Wesley Schneider, Mike Shel, Christina Stiles, James L. Sutter, and Jerome Virnich.
+Pathfinder Campaign Setting: Misfit Monsters Redeemed Copyright 2010, Paizo Publushing, LLC; Authors: Adam Daigle, Crystal Frasier, Colin McComb, Rob McCreary, Jason Nelson, and James L. Sutter.
+Pathfinder Campaign Setting: Mythic Realms © 2013, Paizo Publishing, LLC; Authors: Benjamin Bruck, Jason Bulmahn, Amanda Hamon, Nicolas Logue, Jason Nelson, F. Wesley Schneider, and Russ Taylor.
+Pathfinder Campaign Setting: Numeria, Land of Fallen Stars © 2014, Paizo Inc.; Authors: Jim Groves and Russ Taylor.
+Pathfinder Campaign Setting: Occult Bestiary © 2015, Paizo Inc.; Authors: Josh Colon, John Compton, Paris Crenshaw, Adam Daigle, Eleanor Ferron, James Jacobs, Joe Homes, Mikko Kallio, Mike Kimmel, Ron Lundeen, Kate Marshall, Kalervo Oikarinen, Stephen Radney-MacFarland, and F. Wesley Schneider.
+Pathfinder Campaign Setting: Occult Mysteries © 2014, Paizo Inc.; Authors: Jason Bulmahn, Crystal Frasier, Jim Groves, Brandon Hodge, James Jacobs, Erik Mona, F. Wesley Schneider, and Jerome Virnich. 
+Pathfinder Campaign Setting: Occult Realms © 2015, Paizo Inc.; Authors: Robert Brookes, Thurston Hillman, Thomas M. Reed, and Mark Seifter.
+Pathfinder Campaign Setting: Osirion, Legacy of Pharaohs © 2014, Paizo Publishing, LLC; Authors: Alex Greenshields, Amanda Hamon, Jonathan H. Keith, Ron Lundeen, and David N. Ross.
+Pathfinder Campaign Setting: Path of the Hellknight © 2016, Paizo Inc.; Author: F. Wesley Schneider.
+Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC. Authors: Erik Mona, Mark Moreland, Russ Taylor, and Larry Wilhelm.
+Pathfinder Campaign Setting: Paths of Prestige © 2012, Paizo Publishing, LLC; Authors: Benjamin Bruck, Jason Bulmahn, Matt Goodall, and Jason Nelson.
+Pathfinder Campaign Setting: Planes of Power © 2016, Paizo Inc.; Authors: John Compton, Paris Crenshaw, Eleanor Ferron, Thurston Hillman, and Jessica Price.
+Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC. Authors: Brian Cortijo, Adam Daigle, Tim Hitchcock, Brandon Hodge, Colin McComb, Jason Nelson, Amber Scott, Neil Spicer, and Todd Stewart.
+Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC; Authors: Brandon Hodge, Colin McComb, and Jason Nelson.
+Pathfinder Campaign Setting: Ships of the Inner Sea © 2014, Paizo Inc.; Authors: Benjamin Bruck, Paris Crenshaw, Chris A. Jackson, Amanda Hamon Kunz, Philip A. Lee, and John Mangrum.
+Pathfinder Campaign Setting: Taldor, The First Empire © 2017, Paizo Inc.; Authors: Mark Moreland, with Crystal Frasier, Violet Hargrave, and Isabelle Lee.
+Pathfinder Campaign Setting: Technology Guide Update 1.0 © 2015, Paizo Inc.; Author: James Jacobs.
+Pathfinder Campaign Setting: The First World, Realm of the Fey © 2016, Paizo Inc.; Author: James L. Sutter.
+Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC; Authors: Keith Baker, Wolfgang Baur, Clinton J. Boomer, Jason Bulmahn, Joshua J. Frost, Ed Greenwood, Stephen S. Greer, Jeff Grubb, James Jacobs, Michael Kortes, Tito Leati, Mike McArtor, Rob McCreary, Erik Mona, Jason Eric Nelson, Jeff Quick, Sean K Reynolds, F. Wesley Schneider, Leandra Christine Schneider, David Schwartz, Amber E. Scott, Stan!, Owen K.C. Stephens, Todd Stewart, James L. Sutter, Greg A. Vaughan, Jeremy Walker, and JD Wiker.
+Pathfinder Campaign Setting: The Worldwound © 2013, Paizo Publishing, LLC; Authors: James Jacobs, Jonathan Keith, Jason Nelson, Todd Stewart, and Tanith Tyrr.
+Pathfinder Campaign Setting: Undead Revisited. © 2011, Paizo Publishing, LLC. Authors: Eric Cagle, Brian Cortijo, Brandon Hodge, Steve Kenson, Hal Maclean, Colin McComb, Jason Nelson, Todd Stewart, and Russ Taylor.
+Pathfinder Campaign Setting: Undead Unleashed © 2014, Paizo Inc.; Authors: Adam Daigle, Dave Gross, Mark Moreland, David N. Ross, Todd Stewart, and Jerome Virnich.
+Pathfinder Chronicles Campaign Setting. Copyright 2008, Paizo Publishing, LLC; Authors: Mike McArtor, Keith Baker, Wolfgang Baur, Clinton J. Boomer, Jason Bulmahn, Joshua J. Frost, Ed Greenwood, Stephen S. Greer, Jeff Grubb, James Jacobs, Michael Kortes, Tito Leati, Mike McArtor, Rob McCreary, Erik Mona, Jason Eric Nelson, Jeff Quick, Sean K Reynolds, F. Wesley Schneider, Leandra Christine Schneider, David Schwartz, Amber E. Scott, Stan!, Owen K.C. Stephens, Todd Stewart, James L. Sutter, Greg A. Vaughan, Jeremy Walker, JD Wiker.
+Pathfinder Chronicles: Cities of Golarion. Copyright 2009, Paizo Publishing, LLC; Authors: Joshua J. Frost, Tim Hitchcock, Jonathan Keith, Rob McCreary, Jason Nelson, and Jeff Quick.
+Pathfinder Chronicles: City of Strangers. Copyright 2010, Paizo Publishing, LLC; Author: James L. Sutter.
+Pathfinder Chronicles: Classic Horrors Revisited. Copyright 2009, Paizo Publishing, LLC; Authors: James Jacobs, Rob McCreary, and F. Wesley Schneider.
+Pathfinder Chronicles: Classic Treasures Revisited. Copyright 2010, Paizo Publishing, LLC; Authors: Jacob Burgess, Brian Cortijo, Jonathan H. Keith, Michael Kortes, Jeff Quick, Amber Scott, Todd Stewart, and Russ Taylor.
+Pathfinder Chronicles: Dark Markets, A Guide to Katapesh. Copyright 2009, Paizo Publishing, LLC; Authors: Stephen S. Greer, Amber Scott, Greg A. Vaughan, and Sean K Reynolds.
+Pathfinder Chronicles: Dragons Revisited. Copyright 2009, Paizo Publishing, LLC; Author: Mike McArtor.
+Pathfinder Chronicles: Dungeon Denizens Revisited. Copyright 2009, Paizo Publishing, LLC; Authors: Clinton Boomer, Jason Bulmahn, Joshua J. Frost, Nicolas Logue, Robert McCreary, Jason Nelson, Richard Pett, Sean K Reynolds, James L. Sutter, and Greg A. Vaughan.
+Pathfinder Chronicles: Faction Guide. Copyright 2010, Paizo Publishing, LLC; Authors: Joshua J. Frost, Jason Nelson, and Sean K Reynolds.
+Pathfinder Chronicles: Guide to Absalom. Copyright 2008, Paizo Publishing, LLC; Author: Owen K.C. Stephens.
+Pathfinder Chronicles: Guide to the River Kingdoms. Copyright 2010, Paizo Publishing, LLC; Authors: Eric Bailey, Kevin Carter, Elaine Cunningham, Adam Daigle, Mike Ferguson, Joshua J. Frost, Steve Kenson, Rob Manning, Alison McKenzie, Colin Moulder-McComb, China Miéville, Brock Mitchel-Slentz, Jason Nelson, Richard Pett, Chris Pramas, Je' Quick, Sean K Reynolds, F. Wesley Schneider, Lisa Stevens, Neil Spicer, Matthew Stinson, and John Wick.
+Pathfinder Chronicles: Heart of the Jungle. Copyright 2010, Paizo Publishing, LLC; Authors: Tim Hitchcock, Jason Nelson, Amber Scott, Chris Self, and Todd Stewart.
+Pathfinder Chronicles: Princes of Darkness, Book of the Damned Vol. I. Copyright 2009, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+Pathfinder Chronicles: Princes of Darkness, Book of the Damned, Vol. I. Copyright 2009, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+Pathfinder Chronicles: Seekers of Secrets. Copyright 2009, Paizo Publishing, LLC; Authors: Tim Hitchcock, Erik Mona, Sean K Reynolds, James L. Sutter, and Russ Taylor.
+Pathfinder Chronicles: The Great Beyond, A Guide to the Multiverse. Copyright 2009, Paizo Publishing, LLC; Author: Todd Stewart.
+Pathfinder Companion: Adventurer’s Armory. Copyright 2010, Paizo Publishing, LLC; Authors: Jonathan Keith, Hal Maclean, Jeff Quick, Christopher Self, JD Wiker, and Keri Wiker.
+Pathfinder Companion: Andoran, Spirit of Liberty. Copyright 2010, Paizo Publishing, LLC; Authors:Jonathan Keith, Hal Maclean, Colin Moulder-McComb, Jason Nelson, and Hank Woon.
+Pathfinder Companion: Cheliax, Empire of Devils. Copyright 2009, Paizo Publishing, LLC; Authors: Jonathan H. Keith, Colin McComb, Steven E. Schend, Leandra Christine Schneider, and Amber E. Scott.
+Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC; Authors: David A. Eitelbach, Russ Taylor, JD Wiker, Keri Wiker, and Hank Woon.
+Pathfinder Companion: Elves of Golarion, Copyright 2008, Paizo Publishing, LLC; Authors Jeff Quick and Hal Maclean.
+Pathfinder Companion: Gnomes of Golarion. Copyright 2010, Paizo Publishing, LLC; Authors: Hal Maclean, Colin McComb, Mark Moreland, Jeff Quick, Sean K Reynolds, Steven Schend, and Owen K. C. Stephens.
+Pathfinder Companion: Legacy of Fire Player’s Guide. Copyright 2009, Paizo Publishing, LLC; Authors: Brian Cortijo, Stephen S. Greer, James Jacobs, Jonathan H. Keith, F. Wesley Schneider, Amber E. Scott, and James L. Sutter.
+Pathfinder Companion: Orcs of Golarion. Copyright 2010, Paizo Publishing, LLC; Authors: Steve Kenson, Rob McCreary, Richard Pett, Sean K Reynolds, and JD Wiker.
+Pathfinder Companion: Osirion, Land of Pharaohs, Copyright 2008, Paizo Publishing, LLC; Authors: Jason Nelson and Todd Stewart.
+Pathfinder Companion: Qadira, Gateway to the East. Copyright 2009, Paizo Publishing, LLC; Author: Brian Cortijo.
+Pathfinder Companion: Sargava, the Lost Colony. Copyright 2010, Paizo Publishing, LLC; Author: JD Wiker.
+Pathfinder Companion: Second Darkness Player’s Guide. Copyright 2008, Paizo Publishing, LLC; Authors: James Jacobs, F. Wesley Schneider, Amber Scott, Greg A. Vaughan.
+Pathfinder Companion: Taldor, Echoes of Glory. Copyright 2009, Paizo Publishing, LLC; Author: Joshua J. Frost.
+Pathfinder Module LB1: Tower of the Last Baron, Copyright 2008, Paizo Publishing, LLC. Author: Stephen S. Greer.
+Pathfinder Module LB2: Treasure of Chimera Cove, Copyright 2008, Paizo Publishing, LLC. Author: Anson Caralya.
+Pathfinder Module S1: Clash of the Kingslayers, Copyright 2009, Paizo Publishing, LLC. Author: Leandra Christine Schneider.
+Pathfinder Module: Academy of Secrets. © 2011, Paizo Publishing, LLC; Author: Brian Cortijo.
+Pathfinder Module: Carrion Hill. Copyright 2009, Paizo Publishing, LLC. Author: Richard Pett.
+Pathfinder Module: City of Golden Death. Copyright 2010, Paizo Publishing, LLC. Author: Joshua J. Frost.
+Pathfinder Module: Crypt of the Everflame Copyright 2009, Paizo Publishing, LLC. Author: Jason Bulmahn.
+Pathfinder Module: Cult of the Ebon Destroyers. © 2011, Paizo Publishing, LLC; Author: Matthew Goodall.
+Pathfinder Module: Curse of the Riven Sky. © 2010, Paizo Publishing, LLC; Author: Monte Cook.
+Pathfinder Module: Emerald Spire, © 2014, Paizo Publishing, LLC; Authors: Keith Baker, Richard Baker, Wolfgang Baur, Jason Bulmahn, Ed Greenwood, Tim Hitchcock, James Jacobs, Nick Logue, Frank Mentzer, Erik Mona, Chris Pramas, Sean K Reynolds, F. Wesley Schneider, Michael A. Stackpole, Lisa Stevens, and James Sutter.
+Pathfinder Module: Feast of Ravenmoor. © 2011, Paizo Publishing, LLC; Author: Brandon Hodge.
+Pathfinder Module: From Shore to Sea. © 2010, Paizo Publishing, LLC; Author: Brandon Hodge.
+Pathfinder Module: Masks of the Living God. Copyright 2009, Paizo Publishing, LLC. Author: Jason Bulmahn.
+Pathfinder Module: Master of the Fallen Fortress. © 2010, Paizo Publishing, LLC; Author: Rob McCreary.
+Pathfinder Module: Murder's Mark© 2012, Paizo Publishing, LLC; Author: Jim Groves.
+Pathfinder Module: Murder’s Mark © 2012, Paizo Publishing, LLC; Author: Jim Groves.
+Pathfinder Module: Plunder & Peril © 2014, Paizo Inc.; Authors: Alex Greenshields, Matthew Goodall, Steven T. Helt, and Ben McFarland.
+Pathfinder Module: Realm of the Fellknight Queen. © 2010, Paizo Publishing, LLC; Author: Neil Spicer.
+Pathfinder Module: The Dragon's Demand © 2013, Paizo Publishing, LLC; Author: Mike Shel.
+Pathfinder Module: The Dragon’s Demand © 2013, Paizo Publishing, LLC; Author: Mike Shel.
+Pathfinder Module: The Emerald Spire Superdungeon © 2014, Paizo Inc.; Authors: Keith Baker, Richard Baker, Wolfgang Baur, Jason Bulmahn, Ed Greenwood, Tim Hitchcock, James Jacobs, Nicolas Logue, Frank Mentzer, Erik Mona, Chris Pramas, Sean K Reynolds, F. Wesley Schneider, Michael A. Stackpole, Lisa Stevens, and James L. Sutter.
+Pathfinder Module: The Godsmouth Heresy. © 2010, Paizo Publishing, LLC; Author: Rob McCreary.
+Pathfinder Module: The Harrowing. © 2011, Paizo Publishing, LLC; Author: Crystal Frasier.
+Pathfinder Module: The Moonscar © 2012, Paizo Publishing, LLC; Author: Richard Pett.
+Pathfinder Module: The Ruby Phoenix Tournament © 2012, Paizo Publishing, LLC; Author: Tim Hitchcock.
+Pathfinder Module: The Witchwar Legacy. © 2010, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+Pathfinder Module: Tomb of the Iron Medusa. © 2011, Paizo Publishing, LLC; Author: Mike Shel.
+Pathfinder Player Companion: Antihero’s Handbook © 2017, Paizo Inc.; Authors: Emily Brumfield, Violet Hargrave, Susann Hessen, Mikko Kallio, Lyz Liddell, Adrian Ng, Joe Pasini, Lacy Pellazar, Kyle T. Raes, David N. Ross, and Kendra Leigh Speedling.
+Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, and David N. Ross.
+Pathfinder Player Companion: Armor Master’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, Robert Brookes, Anthony Li, Luis Loza, and David Schwartz.
+Pathfinder Player Companion: Bastards of Golarion © 2014, Paizo Publishing, LLC; Authors: Judy Bauer, Neal Litherland, Ryan Macklin, and David N. Ross.
+Pathfinder Player Companion: Blood of Angels © 2012, Paizo Publishing, LLC; Author: Amber E. Scott.
+Pathfinder Player Companion: Blood of Fiends © 2012, Paizo Publishing, LLC; Authors: Hal Maclean and Colin McComb.
+Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, Luis Loza, and Ron Lundeen.
+Pathfinder Player Companion: Blood of the Ancients © 2018, Paizo Inc.; Authors: John Compton, Andrew Hoskins, James Jacobs, Mikko Kallo, Alex Riggs, Stephen Rowe, and Jeffrey Swank.
+Pathfinder Player Companion: Blood of the Coven © 2017, Paizo Inc.; Authors: John Compton, Eleanor Ferron, Crystal Frasier, Lissa Guillet, Elisa Mader, Adrian Ng, Mark Seifter, and Linda Zayas-Palmer.
+Pathfinder Player Companion: Blood of the Elements © 2014, Paizo Inc.; Authors: Tim Akers, Judy Bauer, Jim Groves, Chris Lites, Dale C. McCoy, Jr., and Cassidy Werner.
+Pathfinder Player Companion: Champions of Balance © 2014, Paizo Publishing, LLC; Authors: Matt Goodall, Ron Lundeen, Philip Minchin, Patrick Renie, Jason Ridler, and David Schwartz.
+Pathfinder Player Companion: Champions of Corruption © 2014, Paizo Inc.; Authors: Paris Crenshaw, Jim Groves, Sean McGowen, and Philip Minchin.
+Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC; Authors: Jessica Blomstrom, Adam Daigle, Shaun Hocking, Daniel Marthaler, Tork Shaw, and Christina Stiles.
+Pathfinder Player Companion: Demon Hunter’s Handbook © 2013, Paizo Publishing, LLC; Authors: Philip Minchin, F. Wesley Schneider, and Jerome Virnich.
+Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.; Authors: Alexander Augunas, Mikko Kallio, Anthony Li, Luis Loza, and Andrew Marlowe.
+Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.; Authors: Alexander Augunas, Russ Brown, John Compton, Alex Riggs, and David Ross.
+Pathfinder Player Companion: Dragon Empires Primer © 2011, Paizo Publishing, LLC; Authors: Tim Hitchcock and Colin McComb.
+Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC; Authors: Shaun Hocking, Marie Small, and Jerome Virnich.
+Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC; Authors: Amanda Hamon, Gareth Hanrahan, David Ross, and Jerome Virnich.
+Pathfinder Player Companion: Faiths of Balance. © 2011, Paizo Publishing, LLC; Author: Colin McComb.
+Pathfinder Player Companion: Faiths of Corruption © 2011, Paizo Publishing, LLC; Author: Colin McComb.
+Pathfinder Player Companion: Giant Hunter's Handbook © 2014, Paizo Inc.; Authors: Alexander Augunas, Luis Loza, Ron Lundeen, and David Ross.
+Pathfinder Player Companion: Halflings of Golarion. Copyright 2010, Paizo Publishing, LLC; Authors: Hal MacLean and Amber E. Scott.
+Pathfinder Player Companion: Haunted Heroes Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, Thurston Hillman, Isabelle Lee, Stephen Rowe, and Christopher Wasko.
+Pathfinder Player Companion: Healer’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, David N. Ross, and Stephen Rowe.
+Pathfinder Player Companion: Heroes from the Fringe © 2018, Paizo Inc.; Authors: Saif Ansari, Kate Baker, Michelle Jones, Isabelle Lee, Adrian Ng, Alex Riggs, Owen K.C. Stephens.
+Pathfinder Player Companion: Heroes of Golarion © 2019, Paizo Inc.; Authors: Saif Ansari, Alexander Augunas, Mara Lynn Butler, Michelle Jones, Avi Kool, and Alex Riggs.
+Pathfinder Player Companion: Humans of Golarion. © 2011, Paizo Publishing, LLC; Authors: James Jacobs, Colin McComb, Sean K Reynolds, Amber Scott, and Larry Wilhelm.
+Pathfinder Player Companion: Inner Sea Primer. Copyright 2010, Paizo Publishing, LLC; Author: Colin McComb.
+Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC; Authors: Gareth Hanrahan, Steve Kenson, Patrick Renie, Tork Shaw, and Jerome Virnich.
+Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.; Authors: Alexander Augunas, Robert Brookes, Thurston Hillman, Michelle Jones, Mikko Kallio, and Mark Seifter.
+Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.; Authors: Jake Alley, Judy Bauer, John Compton, Mikko Kallio, Jason Keeley, Joe Pasini, Mark Seifter, Kendra Leigh Speedling, Josh Vogt, and Linda Zayas-Palmer.
+Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.; Authors: Alexander Augunas, Steven T. Helt, Thurston Hillman, and Ron Lundeen.
+Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.; Authors: Paris Crenshaw, Ron Lundeen, and David Schwartz.
+Pathfinder Player Companion: Mythic Origins © 2013, Paizo Publishing, LLC; Authors: Dennis Baker, Philip Minchin, and Russ Taylor.
+Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.; Authors: Robert Brookes, Ben McFarland, Jason Nelson, and Mark Seifter.
+Pathfinder Player Companion: Pathfinder Society Primer © 2013, Paizo Publishing, LLC; Authors: John Compton and Mark Moreland.
+Pathfinder Player Companion: People of the River © 2014, Paizo Inc.; Authors: Tim Akers, Jason Brick, Ethan Day-Jones, James Jacobs, Nick Salestrom, David Schwartz, and William Thrasher.
+Pathfinder Player Companion: People of the Sands © 2013, Paizo Publishing, LLC; Authors: Shaun Hocking, Rob McCreary, and Jason Nelson.
+Pathfinder Player Companion: People of the Wastes © 2017, Paizo Inc.; Authors: Logan Bonner, John Compton, Nathan King, Luis Loza, Christopher Wasko, and Linda Zayas-Palmer.
+Pathfinder Player Companion: Plane-Hopper’s Handbook © 2018, Paizo Inc.; Authors: James Case, John Compton, Leo Glass, Avi Kool, Adrian Ng, Lacy Pellazar, Daniel Reed, Mikhail Rekun, Amber E. Scott, Tork Shaw, and Linda Zayas-Palmer.
+Pathfinder Player Companion: Potions & Poisons © 2017, Paizo Inc.; Authors: Kate Baker, Eleanor Ferron, Nathan King, Lyz Liddell, Luis Loza, Alex Putnam, Alex Riggs, and David Schwartz.
+Pathfinder Player Companion: Quests & Campaigns © 2013, Paizo Publishing, LLC; Authors: Amanda Hamon and David N. Ross.
+Pathfinder Player Companion: Ranged Tactics Toolbox © 2014, Paizo Inc.; Authors: David N. Ross, David Schwartz, and Kaitlyn Sprague.
+Pathfinder Player Companion: Spymaster’s Handbook © 2016, Paizo Inc.; Authors: Alexander Augunas, David N. Ross, and Owen K.C. Stephens.
+Pathfinder Player Companion: The Harrow Handbook © 2014, Paizo Inc.; Authors: Crystal Frasier, Will McCardell, and David Schwartz.
+Pathfinder Player Companion: Weapon Master’s Handbook © 2015, Paizo Inc.; Authors: Alexander Augunas and David N. Ross.
+Pathfinder Roleplaying Game: Bonus Bestiary. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn.
+Pathfinder Roleplaying Game: The World of Vampire Hunter D © 2016, Paizo Inc.; Author: F. Wesley Schneider.
+Pathfinder Roleplaying Game: Ultimate Campaign. © 2013, Paizo Publishing, LLC; Authors: Jesse Benner, Benjamin Bruck, Jason Bulmahn, Ryan Costello, Adam Daigle, Matt Goetz, Tim Hitchcock, James Jacobs, Ryan Macklin, Colin McComb, Jason Nelson, Richard Pett, Stephen Radney-MacFarland, Patrick Renie, Sean K Reynolds, F. Wesley Schneider, James L. Sutter, Russ Taylor, and Stephen Townshend.
+Pathfinder Roleplaying Game: Ultimate Equipment. © 2012, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Benjamin Bruck, Ross Byers, Brian J. Cortijo, Ryan Costello, Mike Ferguson, Matt Goetz, Jim Groves, Tracy Hurley, Matt James, Jonathan H. Keith, Michael Kenway, Hal MacLean, Jason Nelson, Tork Shaw, Owen KC Stephens, Russ Taylor, and numerous RPG Superstar contributors.
+Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
+Pathfinder RPG GameMastery Guide, © 2010, Paizo Publishing, LLC; Authors: Cam Banks, Wolfgang Baur, Jason Bulmahn, Jim Butler, Eric Cagle, Graeme Davis, Adam Daigle, Joshua J. Frost, James Jacobs, Kenneth Hite, Steven Kenson, Robin Laws, Tito Leati, Rob McCreary, Hal Maclean, Colin McComb, Jason Nelson, David Noonan, Richard Pett, Rich Redman, Sean K Reynolds, F. Wesley Schneider, Amber Scott, Doug Seacat, Mike Selinker, Lisa Stevens, James L. Sutter, Russ Taylor, Penny Williams, Skip Williams, Teeuwynn Woodruff.
+Pathfinder Unchained © 2015, Paizo Inc.; Authors: Dennis Baker, Jesse Benner, Ross Beyers, Logan Bonner, Jason Bulmahn, Robert Emerson, Tim Hitchcock, Jason Nelson, Tom Phillips, Stephen Radney-MacFarland, Thomas M. Reid, Robert Schwalb, Mark Seifter, and Russ Taylor.
+Planar Adventures © 2018, Paizo Inc.; Authors: Robert Brookes, John Compton, Paris Crenshaw, Eleanor Ferron, Thurston Hillman, James Jacobs, Isabelle Lee, Lyz Liddell, Ron Lundeen, Joe Pasini, Lacy Pellazar, Jessica Price, Mark Seifter, F. Wesley Schneider, Todd Stewart, James L. Sutter, and Linda Zayas-Palmer.
+The Pathfinder Chronicles Campaign Setting Copyright 2008, Paizo Publishing; Author: Stan!, Keith Baker, Wolfgang Baur, Clinton J. Boomer, Jason Bulmahn, Joshua J. Frost, Ed Greenwood, Stephen S. Greer, Jeff Grubb, James Jacobs, Michael Kortes, Tito Leati, Mike McArtor, Rob McCreary, Erik Mona, Jason Eric Nelson, Jeff Quick, Sean K Reynolds, David Schwartz, Leandra Christine Schneider, F. Wesley Schneider, Amber E. Scott, Owen K.C. Stephens, Todd Stewart, James L. Sutter, Greg A. Vaughan, Jeremy Walker, JD Wiker.
+Ultimate Combat Playtest. © 2011, Paizo Publishing, LLC; Authors: Jason Bulmahn and Stephen Radney-MacFarland.
+Ultimate Combat. © 2011, Paizo Publishing, LLC; Authors: Jason Bulmahn, Tim Hitchcock, Colin McComb, Rob McCreary, Jason Nelson, Stephen Radney-MacFarland, Sean K Reynolds, Owen K.C. Stephens, and Russ Taylor
+Ultimate Equipment © 2012, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Benjamin Bruck, Ross Byers, Brian J. Cortijo, Ryan Costello, Mike Ferguson, Matt Goetz, Jim Groves, Tracy Hurley, Matt James, Jonathan H. Keith, Michael Kenway, Hal MacLean, Jason Nelson, Tork Shaw, Owen KC Stephens, and Russ Taylor.
+Ultimate Intrigue © 2016, Paizo Inc.; Authors: Jesse Benner, John Bennett, Logan Bonner, Robert Brookes, Jason Bulmahn, Ross Byers, Robert N. Emerson, Amanda Hamon Kunz, Steven Helt, Thurston Hillman, Tim Hitchcock, Mikko Kallio, Rob McCreary, Jason Nelson, Tom Phillips, Stephen Radney-MacFarland, Thomas M. Reid, Alexander Riggs, David N. Ross, David Schwartz, Mark Seifter, Linda Zayas-Palmer.
+Ultimate Magic Supplement: Ultimate Cantrips. © 2011, Paizo Publishing, LLC; Authors: Jason Bulmahn, Tim Hitchcock, Colin McComb, Rob McCreary, Jason Nelson, Stephen Radney-MacFarland, Sean K Reynolds, Owen K.C. Stephens, and Russ Taylor.
+Ultimate Magic. © 2011, Paizo Publishing, LLC; Authors: Jason Bulmahn, Tim Hitchcock, Colin McComb, Rob McCreary, Jason Nelson, Stephen Radney-MacFarland, Sean K Reynolds, Owen K.C. Stephens, and Russ Taylor.
+Ultimate Wilderness © 2017, Paizo Inc.; Authors: Alexander Augunas, John Bennett, Robert Brookes, John Compton, Dan Dillon, Steven T. Helt, Thurston Hillman, Eric Hindley, Mikko Kallio, Jason Keeley, Isabelle Lee, Jason Nelson, Stephen Radney-MacFarland, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter, Jeffery Swank, and Linda Zayas-Palmer.
+Wrath of the Righteous Player’s Guide © 2013, Paizo Publishing, LLC; Authors: Adam Daigle and Jay Loomis.
