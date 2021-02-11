@@ -1,0 +1,18 @@
+{
+    "name": "{{Name}}",
+    "type": "feat",
+    "data": {
+      "description": {
+        "value": "<strong>{{Feature}}</strong><br/><br/>{{Description}}",
+        "chat": "",
+        "unidentified": ""
+      },
+      "tags": [{{Tags}}],
+      "featType": "classFeat",
+      "associations": {
+        "classes": {{Class}}
+      },
+      "abilityType": "none"
+    },
+    "img": "{{Img}}"
+  }
