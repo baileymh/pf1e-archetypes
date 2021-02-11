@@ -11,7 +11,7 @@
   "manifest": "https://github.com/baileymh/pf1e-archetypes/blob/main/module.json",
   "download":"",
   "readme":"https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
-  "changelog":"https://github.com/baileymh/pf1e-content/blob/main/changelog.md",
+  "changelog":"https://github.com/baileymh/pf1e-archetypes/blob/main/changelog.md",
   "packs": [
   {
     "name": "pf-archetypes",
