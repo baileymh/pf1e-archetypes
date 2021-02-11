@@ -10,8 +10,6 @@ This module comprises a vast amount of content for Pathfinder 1st ed. for Foundr
 - 4,524 Archetype Class Features 
 - 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.)
 
-- CSV and xml files that I used for each class to convert the archetype features, along with the template jsons I used to add these to Foundry from the CSV using Data Toolbox.
-
 ## Important! 
 
 The classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. 
@@ -24,9 +22,10 @@ For Archetype features, the icons are similar, though different from their base 
 
 With all these combined, you should be able to easily make the archetypes classes work, or simply replace your existing classes' features with the archetypes. I am unsure how archetypes plan to be implemented in pf1 sys in the future, so I opted for this route, though it requires some "assembly."
 
-## Optional
+## Optional Content on Github
 - I have optionally added the archetype databases as separated compendiums, along with a file that lists the "packs" code necessary to add them as individual compendiums to your world/module.json, rather than all together.
 
+- CSV and xml files that I used for each class to convert the archetype features, along with the template jsons I used to add these to Foundry from the CSV using Data Toolbox.
 
 ### Archetypes: 
  - Archetypes for the following classes

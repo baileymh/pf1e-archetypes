@@ -8,9 +8,9 @@
   "systems": ["pf1"],
   "author": "Michael Bailey(fadedshadow589#8270) (With major contributions from JoshyNeurotic)",
   "url":"https://github.com/baileymh/pf1e-archetypes",
-  "manifest": "https://github.com/baileymh/pf1e-content/releases/download/main/module.json",
-  "download":"https://github.com/baileymh/pf1e-content/releases/download/main/pf-content.zip",
-  "readme":"https://github.com/baileymh/pf1e-content/blob/main/README.md",
+  "manifest": "https://github.com/baileymh/pf1e-archetypes/blob/main/module.json",
+  "download":"",
+  "readme":"https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
   "changelog":"https://github.com/baileymh/pf1e-content/blob/main/changelog.md",
   "packs": [
   {
