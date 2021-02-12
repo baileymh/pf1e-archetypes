@@ -75,7 +75,8 @@ Before altering any of the compendium databases, it is strongly recommended you 
 
 ## Installation
 
-If you want to install this module manually, use the https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip.
+This should be listed on the Foundry app, just search for it and click install. 
+If you want to install this module manually, use:  https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip.
 Unzip the file and transfer the pf1e-archetypes folder to FoundryVTT\Data\modules.
 
 ----------------
