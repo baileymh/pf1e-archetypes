@@ -2,7 +2,7 @@
   "name": "pf1e-archetypes",
   "title": "Pathfinder 1e Archetypes and Abilities",
   "description": "Adds 1,241 Archetypes, 4,524 Archetype Class Features, and 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.). Read the README for more information. The classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. The Archetype Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed). With all these combined, you should be able to easily make the archetypes classes work, or simply replace your existing classes' features with the archetypes, though it requires a little 'assembly.'",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "systems": ["pf1"],
