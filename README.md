@@ -83,6 +83,13 @@ Unzip the file and transfer the pf1e-archetypes folder to FoundryVTT\Data\module
 ## Credit
 These items were converted to foundry with the help of Data Toolbox for FoundryVTT by Sven Werlen, and the archetype classes themselves were converted by JoshyNeurotic.
 
+Paizo Inc.
+
+This module uses artwork from the approved community use product list from https://paizo.com/community/communityuse/products.
+
+It includes artwork from the following community use package:
+- **Community Use Package: Pathfinder Adventure Card Game Class Deck Icons:** https://paizo.com/products/btpy9mhu?Community-Use-Package-Pathfinder-Adventure-Card-Game-Class-Deck-Icons
+
 ------------------------------
 ## Templates for Data Toolbox for Foundry VTT:
 Within the source files folder is the .json file I used, along with the organized/sorted csv files. And the .xml that I used to convert the abilities from originally. 
