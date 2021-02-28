@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1
+
+### Changelog
+- Updated 20 class archetype icons to icons from Paizo's Community Use Class artwork
+- Updated OGL to reflect new artwork
+
 ## 0.1.0
 
 ### Changelog
