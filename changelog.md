@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+### Bug fixes
+- Fixed error preventing load
+
 ## 0.1.2
 ### Changelog
 - Rollback changes, as a bug is preventing loading
