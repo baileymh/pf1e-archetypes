@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4
+### Changelog
+- Add 149 Prestige Classes
+- Add 1,313 Prestige Class Features
+
 ## 0.1.3
 ### Bug fixes
 - Fixed error preventing load
