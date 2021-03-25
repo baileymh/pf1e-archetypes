@@ -1,0 +1,88 @@
+{
+  "name": "{{Name}}",
+  "type": "class",
+  "data": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "unidentified": ""
+    },
+    "tags": ["Prestige Class"],
+    "changes": [],
+    "changeFlags": {
+      "loseDexToAC": false,
+      "noStr": false,
+      "noDex": false,
+      "oneInt": false,
+      "oneWis": false,
+      "oneCha": false,
+      "noEncumbrance": false,
+      "mediumArmorFullSpeed": false,
+      "heavyArmorFullSpeed": false
+    },
+    "links": {
+      "children": []
+    },
+    "tag": "",
+    "classType": "prestige",
+    "levels": {
+      "value": 0,
+      "_deprecated": true
+    },
+    "level": 1,
+    "hd": {{Hitdie}},
+    "hp": {{Hitdie}},
+    "bab": "{{BAB}}",
+    "skillsPerLevel": {{SkillBonus}},
+    "savingThrows": {
+      "fort": {
+        "value": "{{Fort}}"
+      },
+      "ref": {
+        "value": "{{Ref}}"
+      },
+      "will": {
+        "value": "{{Will}}"
+      }
+    },
+    "classSkills": {
+      "acr": {{acr}},
+      "apr": {{apr}},
+      "art": {{art}},
+      "blf": {{blf}},
+      "clm": {{clm}},
+      "crf": {{crf}},
+      "dip": {{dip}},
+      "dev": {{dev}},
+      "dis": {{dis}},
+      "esc": {{esc}},
+      "fly": {{fly}},
+      "han": {{han}},
+      "hea": {{hea}},
+      "int": {{int}},
+      "kar": {{kar}},
+      "kdu": {{kdu}},
+      "ken": {{ken}},
+      "kge": {{kge}},
+      "khi": {{khi}},
+      "klo": {{klo}},
+      "kna": {{kna}},
+      "kno": {{kno}},
+      "kpl": {{kpl}},
+      "kre": {{kre}},
+      "lin": {{lin}},
+      "lor": {{lor}},
+      "per": {{per}},
+      "prf": {{prf}},
+      "pro": {{pro}},
+      "rid": {{rid}},
+      "sen": {{sen}},
+      "slt": {{slt}},
+      "spl": {{spl}},
+      "ste": {{ste}},
+      "sur": {{sur}},
+      "swm": {{swm}},
+      "umd": {{umd}}
+    }
+  }
+}

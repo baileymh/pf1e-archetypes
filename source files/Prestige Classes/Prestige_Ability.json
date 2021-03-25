@@ -1,0 +1,18 @@
+{
+    "name": "{{Name}}",
+    "type": "feat",
+    "data": {
+      "description": {
+        "value": "{{Description}}",
+        "chat": "",
+        "unidentified": ""
+      },
+      "tags": [["{{PrestigeClass}}"],["Prestige Feature"]],
+      "featType": "classFeat",
+      "associations": {
+        "classes": [["{{PrestigeClass}}"]]
+      },
+      "abilityType": "{{Type}}"
+    },
+    "img": "{{Img}}"
+  }
