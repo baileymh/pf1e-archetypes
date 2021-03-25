@@ -1,12 +1,12 @@
 {
   "name": "pf1e-archetypes",
   "title": "Pathfinder 1e Archetypes and Abilities",
-  "description": "Adds 1,241 Archetypes, 4,524 Archetype Class Features, and 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.), as well as 149 Prestige Classes, and 1,313 Prestige Abilities Read the README for more information. While the Prestige classes have appropriate HD, HP, saves, and class skills, the archetypes are not fully implimented. Archetypes simply have their description text (From AON) and feature list - no hd, hp, saves, etc. The Archetype/Presitge Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed). With all these combined, you should be able to easily make the Prestige and archetypes classes work, or simply replace your existing classes' features with the archetypes, though it requires a little 'assembly.'",
-  "version": "0.1.4",
+  "description": "Adds 1,241 Archetypes, 4,524 Archetype Class Features, and 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.). Read the README for more information. The classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. The Archetype Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed). With all these combined, you should be able to easily make the archetypes classes work, or simply replace your existing classes' features with the archetypes, though it requires a little 'assembly.'",
+  "version": "0.1.3",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "systems": ["pf1"],
-  "author": "fadedshadow589#8270 (With major contributions from JoshyNeurotic)",
+  "author": "Michael Bailey(fadedshadow589#8270) (With major contributions from JoshyNeurotic)",
   "url":"https://github.com/baileymh/pf1e-archetypes",
   "manifest": "https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/module.json",
   "download":"https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip",
@@ -29,7 +29,7 @@
     "entity": "Item",
     "module": "pf1e-archetypes"
   },
-      {
+  {
     "name": "pf-arch-features",
     "label": "PF-Archetype Features",
     "system": "pf1",
@@ -38,18 +38,18 @@
     "module": "pf1e-archetypes"
   },
   {
-    "name": "pf-prestige-features",
-    "label": "PF-Prestige Features",
+    "name": "pf-prestige-classes",
+    "label": "PF-Presitge Classes",
     "system": "pf1",
-    "path": "packs/pf-prestige-features.db",
+    "path": "packs/pf-prestige-classes.db",
     "entity": "Item",
     "module": "pf1e-archetypes"
   },
   {
-    "name": "pf-prestige-classes",
-    "label": "PF-Prestige Classes",
+    "name": "pf-prestige-features",
+    "label": "PF-Prestige Features",
     "system": "pf1",
-    "path": "packs/pf-prestige-classes.db",
+    "path": "packs/pf-prestige-features.db",
     "entity": "Item",
     "module": "pf1e-archetypes"
   }]

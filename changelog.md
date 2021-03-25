@@ -1,19 +1,13 @@
 # Changelog
 
-## 0.1.4
-### Changelog
-- Add 149 Prestige Classes
-- Add 1,313 Prestige Class Features
-
-## 0.1.3
-### Bug fixes
-- Fixed error preventing load
-
 ## 0.1.2
+
 ### Changelog
-- Rollback changes, as a bug is preventing loading
+- Added 119 Prestige Classes
+- Added 1276 Prestige Features
 
 ## 0.1.1
+
 ### Changelog
 - Updated 20 class archetype icons to icons from Paizo's Community Use Class artwork
 - Updated OGL to reflect new artwork

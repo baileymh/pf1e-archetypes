@@ -7,16 +7,18 @@ This module comprises a vast amount of content for Pathfinder 1st ed. for Foundr
 ## Included Content:
 
 - 1,241 Archetypes
-- 4,524 Archetype Class Features
+- 4,524 Archetype Class Features 
 - 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.)
-- 149 Prestige Classes
-- 1,313 Prestige Class Features
+- 119 Prestige Classes
+- 1276 Prestige Features
 
 ## Important! 
 
-While the Prestige classes have appropriate HD, HP, saves, and class skills, the archetypes are not fully implimented. Currently in the process of adding the Prestige features to their class, to be gained at the appropriate level. However, Archetypes simply have their description text (From AON) and feature list - no hd, hp, saves, etc.
+Prestige classes should be implimented as best as possible given current pf1 rules. They have their description text, along with HD, HP, class skills, saves, etc., as well as linked features that should be gained at the appropriate levels. The added features do not have changes or attacks, and will have to be adjusted, however all the the information and rules are present. They do not automatically increase levels to base classes, like prestige classes normally do.
 
-The Archetype and Prestige Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed). 
+The Archetype classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. 
+
+The Archetype Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed). 
 
 The class abilities have icons appropriate for their class. For Unchained classes, if the chained text was the same as the unchained, I deleted the unchained. 
 
