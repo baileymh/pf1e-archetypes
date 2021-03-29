@@ -7,22 +7,25 @@ This module comprises a vast amount of content for Pathfinder 1st ed. for Foundr
 ## Included Content:
 
 - 1,241 Archetypes
-- 4,524 Archetype Class Features 
+- 4,524 Archetype Class Features
 - 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.)
 - 119 Prestige Classes
-- 1276 Prestige Features
+- 1,292 Prestige Features
 
-## Important! 
+## Important!
 
+### Prestige Classes
 Prestige classes should be implimented as best as possible given current pf1 rules. They have their description text, along with HD, HP, class skills, saves, etc., as well as linked features that should be gained at the appropriate levels. The added features do not have changes or attacks, and will have to be adjusted, however all the the information and rules are present. They do not automatically increase levels to base classes, like prestige classes normally do.
 
-The Archetype classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. 
+### Archetypes
+The Archetype classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. The Archetype Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed).
 
-The Archetype Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed). 
+The class abilities have icons appropriate for their class. For Unchained classes, if the chained text was the same as the unchained, I deleted the unchained.
 
-The class abilities have icons appropriate for their class. For Unchained classes, if the chained text was the same as the unchained, I deleted the unchained. 
+For Archetype features, the icons are similar, though different from their base class (to set them apart). Each has the name and the archetype in ( ) after. Features of the archetype that match the original class were not included. 
 
-For Archetype features, the icons are similar, though different from their base class (to set them apart). Each has the name and the archetype in ( ) after. Features of the archetype that match the original class were not included. Given the amount of entries, it's possible I missed some, or accidentally removed one's that shouldn't have been. So be sure to double-check the ability on AON to be sure. Additionally, I removed higher tiered version of the same ability (i.e. Sneak Attack dice increase, 1/day...4/day, etc.) to reduce bloak. The base ability will specify the initial level you would gain the ability and the description should include the "at level X..." information. You'll want to keep track of what level you gain the increased benefits and adjust manually, or make the changes scale with level as appropriate.
+Given the amount of entries, it's possible I missed some, or accidentally removed one's that shouldn't have been. So be sure to double-check the ability on AON to be sure. Additionally, I removed higher tiered version of the same ability (i.e. Sneak Attack dice increase, 1/day...4/day, etc.) to reduce bloat. The base ability will specify the initial level you would gain the ability and the description should include the "at level X..." information. 
+You'll want to keep track of what level you gain the increased benefits and adjust manually, or make the changes scale with level as appropriate.
 
 With all these combined, you should be able to easily make the archetypes classes work, or simply replace your existing classes' features with the archetypes. I am unsure how archetypes plan to be implemented in pf1 sys in the future, so I opted for this route, though it requires some "assembly."
 

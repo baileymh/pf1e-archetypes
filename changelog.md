@@ -1,10 +1,15 @@
 # Changelog
 
-## 0.1.2
+## 0.1.4
 
 ### Changelog
 - Added 119 Prestige Classes
-- Added 1276 Prestige Features
+- Added 1,292 Prestige Features
+- Created Class associates between prestige classes and their abilities.
+
+## 0.1.3
+### Bug fix
+- Fix bug preventing load
 
 ## 0.1.1
 
