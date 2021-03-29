@@ -38,17 +38,17 @@ With all these combined, you should be able to easily make the archetypes classe
  - Archetypes for the following classes
     - Alchemist (63)
     - Antipaladin (9)
-	- Arcanist (15)
-	- Barbarian (41)
-	- Bard (72)
-	- Bloodrager (18)
-	- Brawler (18)
-	- Cavalier (36)
-	- Cleric (33)
-	- Druid (75)
-	- Fighter (65)
-	- Gunslinger (22)
-	- Hunter (20)
+    - Arcanist (15)
+    - Barbarian (41)
+    - Bard (72)
+    - Bloodrager (18)
+    - Brawler (18)
+    - Cavalier (36)
+    - Cleric (33)
+    - Druid (75)
+    - Fighter (65)
+    - Gunslinger (22)
+    - Hunter (20)
     - Inquisitor (38)
     - Investigator (37)
     - Kineticist (19)
@@ -58,8 +58,8 @@ With all these combined, you should be able to easily make the archetypes classe
     - Monk (56)
     - Ninja (5)
     - Occultist (20)
-	- Oracle (26)
-	- Paladin (47)
+    - Oracle (26)
+    - Paladin (47)
     - Psychic (8)
     - Ranger (62)
     - Rogue (78)
@@ -75,7 +75,7 @@ With all these combined, you should be able to easily make the archetypes classe
     - Vigilante (28)
     - Warpriest (18)
     - Witch (42)
-	- Wizard (35)
+    - Wizard (35)
 
 
 Before altering any of the compendium databases, it is strongly recommended you create a personal copy of each to prevent the originals from being overwritten.
@@ -85,6 +85,15 @@ Before altering any of the compendium databases, it is strongly recommended you 
 This should be listed on the Foundry app, just search for it and click install. 
 If you want to install this module manually, use:  https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip.
 Unzip the file and transfer the pf1e-archetypes folder to FoundryVTT\Data\modules.
+
+
+## Contributing
+
+If you would like to help, you can do so through the Let's Contribute module feature for both PF-Content and PF1e Archetypes. If you have made Changes to any of the items added by this module (Changes, better icons, fixed typos, tags, grammar), you can upload those changes by clicking the icon in the top left corner. I will be regularly checking and merging changes people submit.
+
+Alternatively, you can open an issue if you find a missing item, or an error. If you have changed/fixed multiple items, you are welcome to either send me the updated .db file or do a pull request so that I can try to merge your changes.
+
+If you have any questions, concerns, or ideas, you are welcome to message me on discord (fadedshadow589#8270).
 
 ----------------
 ## Credit
