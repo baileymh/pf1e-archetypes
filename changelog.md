@@ -1,5 +1,16 @@
 # Changelog
 
+
+## 0.1.5
+### Changelog
+- Added some missing archetypes for Arcanist, Bard, Brawler, Cleric, Fighter, Hunter, Kineticist, Paladin, Summoner
+- Added missing features for the above classes
+- Added a prompt to give people a one-time update/notice about the break in updates with PF-Content, so they can reinstall.
+
+### Bugfix
+- Fixed tag names for archetype classes to be lowercase, so they can work with changes that modify their base class
+
+
 ## 0.1.4
 
 ### Changelog
