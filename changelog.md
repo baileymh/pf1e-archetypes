@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.6
+### Bugfix
+- Fixe tag names so they don't conflict with base classes.
 
 ## 0.1.5
 ### Changelog
