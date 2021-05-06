@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.7
+### Changelog
+- Added merges from Let's Contribute
+- Delete some duplicate features
+
 ## 0.1.6
 ### Bugfix
 - Fixe tag names so they don't conflict with base classes.
