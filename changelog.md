@@ -2,6 +2,7 @@
 
 ## 0.1.8
 ### Changelog
+- Update compatibility for 0.7.10
 - Merged changes/context notes from Let's Contribute
 - Migrated PF-Class Abilities to pf-content
 
