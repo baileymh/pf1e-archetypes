@@ -4,7 +4,7 @@
   "description": "Adds Archetypes, Archetype Class Features, along with 119 Prestige Classes, and associated Prestige Features. Read the README for more information.",
   "version": "0.1.8",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.10",
   "systems": ["pf1"],
   "author": "Michael Bailey(fadedshadow589#8270) (With major contributions from JoshyNeurotic)",
   "url":"https://github.com/baileymh/pf1e-archetypes",
