@@ -8,7 +8,6 @@ This module comprises a vast amount of content for Pathfinder 1st ed. for Foundr
 
 - 1,241 Archetypes
 - 4,524 Archetype Class Features
-- 4,727 Class Abilities (Arcane Discovery, Domains, Talents, etc.)
 - 119 Prestige Classes
 - 1,292 Prestige Features
 
@@ -20,19 +19,12 @@ Prestige classes should be implimented as best as possible given current pf1 rul
 ### Archetypes
 The Archetype classes are not fully implimented. They simply have their description text (From AON) and feature list - no hd, hp, saves, etc. The Archetype Class Features and Class abilities do not have Changes or attacks. They should have all the required information to make use of the ability (and add appropriate changes when needed).
 
-The class abilities have icons appropriate for their class. For Unchained classes, if the chained text was the same as the unchained, I deleted the unchained.
-
 For Archetype features, the icons are similar, though different from their base class (to set them apart). Each has the name and the archetype in ( ) after. Features of the archetype that match the original class were not included. 
 
 Given the amount of entries, it's possible I missed some, or accidentally removed one's that shouldn't have been. So be sure to double-check the ability on AON to be sure. Additionally, I removed higher tiered version of the same ability (i.e. Sneak Attack dice increase, 1/day...4/day, etc.) to reduce bloat. The base ability will specify the initial level you would gain the ability and the description should include the "at level X..." information. 
 You'll want to keep track of what level you gain the increased benefits and adjust manually, or make the changes scale with level as appropriate.
 
 With all these combined, you should be able to easily make the archetypes classes work, or simply replace your existing classes' features with the archetypes. I am unsure how archetypes plan to be implemented in pf1 sys in the future, so I opted for this route, though it requires some "assembly."
-
-## Optional Content on Github
-- I have optionally added the archetype databases as separated compendiums, along with a file that lists the "packs" code necessary to add them as individual compendiums to your world/module.json, rather than all together.
-
-- CSV and xml files that I used for each class to convert the archetype features, along with the template jsons I used to add these to Foundry from the CSV using Data Toolbox.
 
 ### Archetypes: 
  - Archetypes for the following classes
@@ -105,6 +97,8 @@ This module uses artwork from the approved community use product list from https
 
 It includes artwork from the following community use package:
 - **Community Use Package: Pathfinder Adventure Card Game Class Deck Icons:** https://paizo.com/products/btpy9mhu?Community-Use-Package-Pathfinder-Adventure-Card-Game-Class-Deck-Icons
+
+Thanks to the various community members who have helped out through Let's Contribute! 
 
 ------------------------------
 ## Templates for Data Toolbox for Foundry VTT:

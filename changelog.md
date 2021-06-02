@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.8
+### Changelog
+- Merged changes/context notes from Let's Contribute
+- Migrated PF-Class Abilities to pf-content
+
 ## 0.1.7
 ### Changelog
 - Added merges from Let's Contribute

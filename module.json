@@ -1,15 +1,15 @@
 {
   "name": "pf1e-archetypes",
   "title": "Pathfinder 1e Archetypes and Abilities",
-  "description": "Adds Archetypes, Archetype Class Features, and Class Abilities (Arcane Discovery, Domains, Talents, etc.), along with 119 Prestige Classes, and associated Prestige Features. Read the README for more information.",
-  "version": "0.1.7",
+  "description": "Adds Archetypes, Archetype Class Features, along with 119 Prestige Classes, and associated Prestige Features. Read the README for more information.",
+  "version": "0.1.8",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "systems": ["pf1"],
   "author": "Michael Bailey(fadedshadow589#8270) (With major contributions from JoshyNeurotic)",
   "url":"https://github.com/baileymh/pf1e-archetypes",
   "manifest": "https://raw.githubusercontent.com/baileymh/pf1e-archetypes/main/module.json",
-  "download":"https://github.com/baileymh/pf1e-archetypes/releases/download/0.1.7/pf1e-archetypes_v0.1.7.zip",
+  "download":"https://github.com/baileymh/pf1e-archetypes/releases/download/0.1.8/pf1e-archetypes_v0.1.8.zip",
   "readme":"https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
   "changelog":"https://github.com/baileymh/pf1e-archetypes/blob/main/changelog.md",
   "scripts": [
@@ -21,14 +21,6 @@
     "label": "PF-Archetypes",
     "system": "pf1",
     "path": "packs/pf-archetypes.db",
-    "entity": "Item",
-    "module": "pf1e-archetypes"
-  },
-      {
-    "name": "pf-class-abilities",
-    "label": "PF-Class Abilities",
-    "system": "pf1",
-    "path": "packs/pf-class-abilities.db",
     "entity": "Item",
     "module": "pf1e-archetypes"
   },
