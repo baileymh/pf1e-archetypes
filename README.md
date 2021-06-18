@@ -1,3 +1,7 @@
+[![Digital-Patreon-Wordmark_FieryCoral2](https://user-images.githubusercontent.com/48079051/119408916-7b145f80-bcb4-11eb-9040-5879379cfa0b.png)](https://www.patreon.com/fadedshadow589) 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=E5Z634F26LEJC)
+
 # pf1e-archetypes
 
 Converted/imported content for Foundry VTT PF1e
