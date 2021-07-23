@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0
+### Changelog
+- Migrate to 0.8.8
+- Added missing features for Zen Archer (Monk)
+
+### Bugfixes
+- Fixed text mismatch in Eldritch Poisoner
+
 ## 0.1.8
 ### Changelog
 - Merged changes/context notes from Let's Contribute
