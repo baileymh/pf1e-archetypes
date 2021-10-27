@@ -43,7 +43,7 @@
     },
     {
       "name": "pf-prestige-classes",
-      "label": "PF-Presitge Classes",
+      "label": "PF-Prestige Classes",
       "system": "pf1",
       "path": "packs/pf-prestige-classes.db",
       "entity": "Item",
