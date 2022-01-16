@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2
+### Changelog
+- Migrate to latest foundry 0.9.242
+
 ## 0.2.1
 ### Changelog
 - Migrate to latest foundry 0.8.9
