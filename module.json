@@ -18,7 +18,7 @@
   "version": "0.2.1",
   "minimumCoreVersion": "0.8.7",
   "compatibleCoreVersion": "0.8.9",
-  "scripts": ["./scripts/welcome-screen.js"],
+  "scripts": [],
   "esmodules": [],
   "styles": [],
   "languages": [],
