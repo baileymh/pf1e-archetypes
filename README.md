@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7BCIF2)
+
 # pf1e-archetypes
 
 Converted/imported content for Foundry VTT PF1e
