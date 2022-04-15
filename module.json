@@ -28,7 +28,7 @@
       "label": "PF-Archetypes",
       "system": "pf1",
       "path": "packs/pf-archetypes.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1e-archetypes",
       "private": false
     },
@@ -37,7 +37,7 @@
       "label": "PF-Archetype Features",
       "system": "pf1",
       "path": "packs/pf-arch-features.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1e-archetypes",
       "private": false
     },
@@ -46,7 +46,7 @@
       "label": "PF-Prestige Classes",
       "system": "pf1",
       "path": "packs/pf-prestige-classes.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1e-archetypes",
       "private": false
     },
@@ -55,7 +55,7 @@
       "label": "PF-Prestige Features",
       "system": "pf1",
       "path": "packs/pf-prestige-features.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "pf1e-archetypes",
       "private": false
     }
