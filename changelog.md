@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.5
+### Changelog
+* Migrate module for pf1 81.3 and foundry 9.269
+* Create local version of PFS and 3.5e icons
+
 ## 0.2.4
 ### Changelog
 * Migrate module for pf 80.23 and foundry 9.269
