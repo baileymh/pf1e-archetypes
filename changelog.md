@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.6
+### Changelog
+* Migrate module for pf1 82.2 and foundry 10.287
+
 ## 0.2.5
 ### Changelog
 * Migrate module for pf1 81.3 and foundry 9.269
