@@ -1,7 +1,7 @@
 {
   "name": "pf1e-archetypes",
   "title": "Pathfinder 1e Archetypes and Abilities",
-  "description": "Adds Archetypes, Archetype Class Features, along with 119 Prestige Classes, and associated Prestige Features. Read the README for more information.",
+  "description": "Adds Archetypes, Archetype Class Features, along with 119 Prestige Classes, and associated Prestige Features. This module is mostly for refernce, the classes and abilities lack functionality. User needs to manually add values and features. Read the README for more information.",
   "author": "fadedshadow589#8270 (With major contributions from JoshyNeurotic)",
   "authors": [],
   "url": "https://github.com/baileymh/pf1e-archetypes",
