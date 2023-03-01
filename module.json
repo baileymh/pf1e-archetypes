@@ -1,27 +1,37 @@
 {
-  "name": "pf1e-archetypes",
   "title": "Pathfinder 1e Archetypes and Abilities",
-  "description": "Adds Archetypes, Archetype Class Features, along with 119 Prestige Classes, and associated Prestige Features. Read the README for more information.",
-  "author": "fadedshadow589#8270 (With major contributions from JoshyNeurotic)",
-  "authors": [],
+  "description": "Adds rule texts for Archetypes, Archetype Class Features, along with 119 Prestige Classes, and associated Prestige Features. Read the README for more information.",
+  "authors": [
+    {
+      "name": "fadedshadow589 (With major contributions from JoshyNeurotic)",
+      "discord": "adedshadow589#8270",
+      "flags": {}
+    }
+  ],
   "url": "https://github.com/baileymh/pf1e-archetypes",
   "readme": "https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
   "changelog": "https://github.com/baileymh/pf1e-archetypes/blob/main/changelog.md",
-  "manifest": "https://github.com/baileymh/pf1e-archetypes/releases/download/0.2.6/module.json",
-  "download": "https://github.com/baileymh/pf1e-archetypes/releases/download/0.2.6/pf1e-archetypes_v0.2.6.zip",
-  "system": ["pf1"],
-  "dependencies": [],
-  "socket": false,
-  "protected": false,
-  "coreTranslation": false,
-  "flags": {},
-  "version": "0.2.6",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
+  "manifest": "https://github.com/baileymh/pf1e-archetypes/releases/download/0.2.7/module.json",
+  "download": "https://github.com/baileymh/pf1e-archetypes/releases/download/0.2.7/pf1e-archetypes_v0.2.7.zip",
+  "version": "0.2.7",
+  "compatibility": {
+    "minimum": "10",
+    "maximum": "10"
+  },
+  "id": "pf1e-archetypes",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/permalink/latest/downloads/system.json",
+        "compatibility": {
+          "minimum": "0.82.5",
+          "verified": "0.82.5"
+        }
+      }
+    ]
+  },
   "packs": [
     {
       "name": "pf-archetypes",
@@ -29,8 +39,8 @@
       "system": "pf1",
       "path": "packs/pf-archetypes.db",
       "type": "Item",
-      "module": "pf1e-archetypes",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "name": "pf-arch-features",
@@ -38,8 +48,8 @@
       "system": "pf1",
       "path": "packs/pf-arch-features.db",
       "type": "Item",
-      "module": "pf1e-archetypes",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "name": "pf-prestige-classes",
@@ -47,8 +57,8 @@
       "system": "pf1",
       "path": "packs/pf-prestige-classes.db",
       "type": "Item",
-      "module": "pf1e-archetypes",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "name": "pf-prestige-features",
@@ -56,8 +66,8 @@
       "system": "pf1",
       "path": "packs/pf-prestige-features.db",
       "type": "Item",
-      "module": "pf1e-archetypes",
-      "private": false
+      "private": false,
+      "flags": {}
     }
   ]
 }
